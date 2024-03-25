@@ -6,18 +6,25 @@ document.addEventListener('DOMContentLoaded', () => {
     let cardsWon = [];
 
     const cardArray = [
-        { name: 'card1', img: 'images/distracted.png' },
-        { name: 'card1', img: 'images/distracted.png' },
-        { name: 'card2', img: 'images/drake.png' },
-        { name: 'card2', img: 'images/drake.png' },
-        { name: 'card3', img: 'images/fine.png' },
-        { name: 'card3', img: 'images/fine.png' },
-        { name: 'card4', img: 'images/rollsafe.png' },
-        { name: 'card4', img: 'images/rollsafe.png' },
-        { name: 'card5', img: 'images/IMG_1886.jpg' },
-        { name: 'card5', img: 'images/IMG_1886.jpg' },
-        { name: 'card6', img: 'images/GEEKPANZEE (1).png' },
-        { name: 'card6', img: 'images/GEEKPANZEE (1).png' },
+        { name: 'card1', img: 'images/API Gateway.png' },
+        { name: 'card1', img: 'images/API Gateway.png' },
+        { name: 'card2', img: 'images/CloudTrail.png' },
+        { name: 'card2', img: 'images/CloudTrail.png' },
+        { name: 'card3', img: 'images/CloudWatch.png' },
+        { name: 'card3', img: 'images/CloudWatch.png' },
+        { name: 'card4', img: 'images/CodeDeploy.png' },
+        { name: 'card4', img: 'images/CodeDeploy.png' },
+        { name: 'card5', img: 'images/CodePipeline.png' },
+        { name: 'card5', img: 'images/CodePipeline.png' },
+        { name: 'card7', img: 'images/DynamoDB.png' },
+        { name: 'card7', img: 'images/DynamoDB.png' },
+        { name: 'card8', img: 'images/EC2.png' },
+        { name: 'card8', img: 'images/EC2.png' },
+        { name: 'card9', img: 'images/Elastic Block Store.png' },
+        { name: 'card9', img: 'images/Elastic Block Store.png' },
+        { name: 'card10', img: 'Elastic Load Balancing.png' },
+        { name: 'card10', img: 'Elastic Load Balancing.png' },
+        
         // ...add more pairs as needed
     ];
 
