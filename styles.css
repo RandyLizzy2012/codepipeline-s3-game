@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif; 
     background-color: #4CDAE8; 
-    color: #ffffff; 
+    color: #545454; 
     text-align: center;
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-    color: white; 
+    color: red; 
 }
 
 .instructions {
